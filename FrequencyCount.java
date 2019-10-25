@@ -1,6 +1,6 @@
 import java.util.*;
 
-class UniqueCountString{
+class FrequencyCount{
 
   public static void main(String[] args) {
     String string;
