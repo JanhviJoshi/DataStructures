@@ -12,3 +12,6 @@ Using two nested for loops, we select one element and search for its occurences 
 **With Time Complexity: O(n log n)** <br>
 Sort the string using **MergeSort** and then find the frequency of each element using a single for loop. <br>
 Code: [FrequencyCount.java](https://github.com/JanhviJoshi/DataStructures/blob/master/FrequencyCount.java)
+**With Time Complexity: O(n)** <br>
+Using a HashMap which does not allow storing duplicate key values. The HashMap hence, stores unique elements as keys and their frequencies as their corresponding values. <br>
+Code: [FrequencyCountStringHashMap.java] (https://github.com/JanhviJoshi/DataStructures/blob/master/FrequencyCountStringHashMap.java)
