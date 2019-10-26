@@ -14,4 +14,4 @@ Sort the string using **MergeSort** and then find the frequency of each element 
 Code: [FrequencyCount.java](https://github.com/JanhviJoshi/DataStructures/blob/master/FrequencyCount.java) <br>
 **With Time Complexity: O(n)** <br>
 Using a HashMap which does not allow storing duplicate key values. The HashMap hence, stores unique elements as keys and their frequencies as their corresponding values. <br>
-Code: [FrequencyCountStringHashMap.java] (https://github.com/JanhviJoshi/DataStructures/blob/master/FrequencyCountStringHashMap.java)
+Code: [FrequencyCountStringHashMap.java](https://github.com/JanhviJoshi/DataStructures/blob/master/FrequencyCountStringHashMap.java)
