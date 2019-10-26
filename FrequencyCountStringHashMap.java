@@ -18,10 +18,9 @@ class FrequencyCountStringHashMAp{
       }
     }
     for (Character name : hm.keySet()){
-            // search  for value
             if(name!= ' '){
               Integer val = hm.get(name);
-              System.out.println("Key = " + name + ", Value = " + val);
+              System.out.println("Element = " + name + ",Count = " + val);
             }
         }
 
